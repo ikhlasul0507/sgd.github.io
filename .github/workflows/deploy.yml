@@ -15,5 +15,5 @@ jobs:
         with:
             server: "ftp.bgpolsri.com"
             username: "deploy@deploy.bgpolsri.com"
-            password: "#Q6X#TH%8B+A"
+            password: ${{ secrets.FTP_PASSWOD }}
             server_dir: "/"
