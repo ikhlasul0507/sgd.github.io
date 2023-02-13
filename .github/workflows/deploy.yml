@@ -16,4 +16,4 @@ jobs:
             server: "ftp.bgpolsri.com"
             username: "deploy@deploy.bgpolsri.com"
             password: "#Q6X#TH%8B+A"
-            server_dir: "public_html/deploy.bgpolsri.com"
+            server_dir: "/"
